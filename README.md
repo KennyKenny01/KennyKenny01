@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Frameworks, CSS, HTML, JS, Python**
 
+- 👨‍💻 All of my projects are available at [http://linktr.ee/kennyfisher](http://linktr.ee/kennyfisher)
+
 - 📫 How to reach me **Kennedymiguel06@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kennedy-miguel-a04a36189/](https://www.linkedin.com/in/kennedy-miguel-a04a36189/)
