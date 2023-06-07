@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennykenny01&show_icons=true&locale=en&layout=compact" alt="kennykenny01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennykenny01&show_icons=true&locale=en" alt="kennykenny01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=kennykenny01&show_icons=true&locale=en" alt="kennykenny01" /></p>
